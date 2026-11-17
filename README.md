@@ -121,7 +121,7 @@ FastAPI provides interactive Swagger documentation:
 | GET | `/categories` | Retrieve all categories |
 | GET | `/categories/{category_id}` | Retrieve a specific category |
 | PUT | `/category/{category_id}` | Update a category |
-| DELETE | `/category/{category_id}` | Delete an item |
-| DELETE | `/categories` | Delete all items |
+| DELETE | `/category/{category_id}` | Delete a category |
+| DELETE | `/categories` | Delete all categories |
 
 ## Example Item Response
