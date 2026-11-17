@@ -125,3 +125,15 @@ FastAPI provides interactive Swagger documentation:
 | DELETE | `/categories` | Delete all categories |
 
 ## Example Item Response
+
+[
+  {
+    "id": 0,
+    "name": "string",
+    "description": "string",
+    "price": 0,
+    "quantity": 0,
+    "category_id": 0,
+    "category_name": "string"
+  }
+]
